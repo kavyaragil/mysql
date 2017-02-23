@@ -1,0 +1,6 @@
+update tbl_stock set int_price=501.5 where pk_int_stock_id=1;
+update tbl_stock set int_price=451.5 where pk_int_stock_id=2;
+update tbl_stock set int_price=1201.5 where pk_int_stock_id=3;
+update tbl_stock set int_price=1501.5 where pk_int_stock_id=4;
+update tbl_stock set int_price=751.5 where pk_int_stock_id=5;
+update tbl_stock set int_price=3501.5 where pk_int_stock_id=6;
